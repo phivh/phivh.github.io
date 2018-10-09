@@ -1,4 +1,4 @@
-> There are some websites help push up your coding skills
+## List of Algorithm sites and brief description
 
 1. [Hackerrank](https://www.hackerrank.com)
 - It is a technology hiring platform that is the standard for assessing developer skills
